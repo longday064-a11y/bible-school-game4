@@ -1,0 +1,2 @@
+-- Schema was applied to Supabase project vitlppxutxfoaacdtoml
+-- This file is kept for backup/documentation.
